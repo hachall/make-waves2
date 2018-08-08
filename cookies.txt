@@ -1,0 +1,5 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+.makeproductions.com	TRUE	/	FALSE	1999999999	__cfduid	dd0fd05e1c504f08803b4a1fc3996ec7c1533570798
+www.makeproductions.com	TRUE	/	FALSE	1999999999	wordpress_test_cookie	WP+Cookie+check
+

@@ -1,0 +1,221 @@
+HTTrack3.49-2 launched on Mon, 06 Aug 2018 16:53:18 at http://www.makeproductions.com/
+(winhttrack http://www.makeproductions.com/ -W -O "/Users/hamish/websites/makewaves" -%v )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+16:56:38	Error: 	"Method Not Allowed" (405) at link www.makeproductions.com/xmlrpc.php (from www.makeproductions.com/)
+21:46:51	Warning: 	File not parsed, looks like binary: www.makeproductions.com/wp-content/plugins/revslider/public/assets/css/openhand.cur
+21:46:51	Warning: 	File not parsed, looks like binary: www.makeproductions.com/wp-content/plugins/revslider/public/assets/css/closedhand.cur
+21:46:51	Error: 	"Not Found" (404) at link www.makeproductions.com/wp-content/plugins/showcase-visual-composer-addon/assets/css/grabbing.png (from www.makeproductions.com/wp-content/plugins/showcase-visual-composer-addon/assets/css/owl.carousel.min.css)
+21:46:51	Error: 	"Not Found" (404) at link www.makeproductions.com/wp-content/themes/rhythm/images/loader.gif (from www.makeproductions.com/wp-content/themes/rhythm/css/style.css)
+21:46:51	Warning: 	Moved Permanently for www.makeproductions.com/?p=1797
+21:46:51	Warning: 	File has moved from www.makeproductions.com/?p=1797 to http://www.makeproductions.com/showreel-trailers/
+21:51:13	Warning: 	Moved Permanently for www.makeproductions.com/?p=3480
+21:51:13	Warning: 	File has moved from www.makeproductions.com/?p=3480 to http://www.makeproductions.com/who/
+21:51:16	Warning: 	Moved Permanently for www.makeproductions.com/?p=3576
+21:51:16	Warning: 	File has moved from www.makeproductions.com/?p=3576 to http://www.makeproductions.com/awards/
+21:51:16	Warning: 	Retry after error -4 (Incorrect length (1399561 Bytes, 1955385 expected)) at link www.makeproductions.com/wp-content/uploads/2015/09/lego3.png (from www.makeproductions.com/awards/)
+21:51:17	Warning: 	Retry after error -4 (Incorrect length (731140 Bytes, 1157630 expected)) at link www.makeproductions.com/wp-content/uploads/2018/01/utopia4-e1516604830442.png (from www.makeproductions.com/awards/)
+21:51:44	Warning: 	Retry after error -4 (Incorrect length (558810 Bytes, 698398 expected)) at link www.makeproductions.com/wp-content/uploads/2018/01/utopia3-e1516604803225.png (from www.makeproductions.com/awards/)
+21:52:08	Warning: 	Retry after error -4 (Incorrect length (2554178 Bytes, 3823698 expected)) at link www.makeproductions.com/wp-content/uploads/2016/09/Boat-People-04.jpg (from www.makeproductions.com/awards/)
+21:52:09	Warning: 	Retry after error -4 (Incorrect length (479482 Bytes, 1682217 expected)) at link www.makeproductions.com/wp-content/uploads/2015/09/dens1.jpg (from www.makeproductions.com/awards/)
+21:52:30	Warning: 	Retry after error -4 (Incorrect length (705406 Bytes, 1512866 expected)) at link www.makeproductions.com/wp-content/uploads/2015/09/dens2.jpg (from www.makeproductions.com/awards/)
+21:52:50	Warning: 	Retry after error -2 (Receive Time Out) at link www.makeproductions.com/wp-content/uploads/2015/09/dens.jpg (from www.makeproductions.com/awards/)
+21:54:46	Warning: 	Retry after error -2 (Receive Time Out) at link www.makeproductions.com/wp-content/uploads/2015/09/dens3.jpg (from www.makeproductions.com/awards/)
+21:55:32	Warning: 	Retry after error -2 (Receive Time Out) at link www.makeproductions.com/wp-content/uploads/2015/09/yellowshirt.png (from www.makeproductions.com/awards/)
+21:57:15	Warning: 	Retry after error -2 (Receive Time Out) at link www.makeproductions.com/wp-content/uploads/2015/09/yellowshirt2.png (from www.makeproductions.com/awards/)
+21:57:15	Warning: 	Retry after error -4 (Incorrect length (534396 Bytes, 1100151 expected)) at link www.makeproductions.com/wp-content/uploads/2015/09/yellowshirt1.png (from www.makeproductions.com/awards/)
+21:57:22	Warning: 	Retry after error -4 (Incorrect length (471308 Bytes, 1475477 expected)) at link www.makeproductions.com/wp-content/uploads/2015/09/yellowshirt4.png (from www.makeproductions.com/awards/)
+21:58:53	Warning: 	Retry after error -4 (Incorrect length (458305 Bytes, 2690523 expected)) at link www.makeproductions.com/wp-content/uploads/2015/09/yellowshirt3.png (from www.makeproductions.com/awards/)
+21:59:31	Warning: 	Retry after error -4 (Incorrect length (443754 Bytes, 2037705 expected)) at link www.makeproductions.com/wp-content/uploads/2015/09/yellowshirt5.png (from www.makeproductions.com/awards/)
+22:00:14	Warning: 	Retry after error -2 (Receive Time Out) at link www.makeproductions.com/wp-content/uploads/2015/09/yellowshirt6.png (from www.makeproductions.com/awards/)
+22:02:01	Warning: 	Retry after error -2 (Receive Time Out) at link www.makeproductions.com/wp-content/uploads/2015/09/yellowshirt7-1.png (from www.makeproductions.com/awards/)
+22:03:25	Warning: 	Retry after error -2 (Receive Time Out) at link www.makeproductions.com/wp-content/uploads/2015/09/Sewol3.jpg (from www.makeproductions.com/awards/)
+22:03:37	Warning: 	Retry after error -2 (Receive Time Out) at link www.makeproductions.com/wp-content/uploads/2015/09/Sewol4.jpg (from www.makeproductions.com/awards/)
+22:03:45	Warning: 	Retry after error -4 (Incorrect length (314739 Bytes, 2000703 expected)) at link www.makeproductions.com/wp-content/uploads/2015/09/DOB-Teaser-02.png (from www.makeproductions.com/awards/)
+22:04:17	Warning: 	Retry after error -4 (Incorrect length (499457 Bytes, 2694393 expected)) at link www.makeproductions.com/wp-content/uploads/2015/09/DOB_Kingfisher-Gupta.png (from www.makeproductions.com/awards/)
+22:04:52	Warning: 	Retry after error -4 (Incorrect length (450018 Bytes, 2635043 expected)) at link www.makeproductions.com/wp-content/uploads/2015/09/DOB_Barings-03.png (from www.makeproductions.com/awards/)
+22:06:39	Warning: 	Retry after error -4 (Incorrect length (440337 Bytes, 2502552 expected)) at link www.makeproductions.com/wp-content/uploads/2015/09/DOB-Teaser-01.png (from www.makeproductions.com/awards/)
+22:08:39	Warning: 	Retry after error -4 (Incorrect length (366604 Bytes, 375059 expected)) at link www.makeproductions.com/wp-content/uploads/2016/04/C0069T01.jpg (from www.makeproductions.com/awards/)
+22:08:43	Warning: 	Retry after error -2 (Receive Time Out) at link www.makeproductions.com/wp-content/uploads/2015/09/C0013T01.jpg (from www.makeproductions.com/awards/)
+22:09:16	Warning: 	Retry after error -4 (Incorrect length (457323 Bytes, 1046817 expected)) at link www.makeproductions.com/wp-content/uploads/2016/09/IMG_6615.jpg (from www.makeproductions.com/awards/)
+22:10:37	Warning: 	Retry after error -4 (Incorrect length (340057 Bytes, 1037321 expected)) at link www.makeproductions.com/wp-content/uploads/2016/09/IMG_6562.jpg (from www.makeproductions.com/awards/)
+22:10:59	Warning: 	Retry after error -2 (Receive Time Out) at link www.makeproductions.com/wp-content/uploads/2015/09/cambodia-6.jpg (from www.makeproductions.com/awards/)
+22:11:05	Warning: 	Retry after error -2 (Receive Time Out) at link www.makeproductions.com/wp-content/uploads/2016/09/nepalearthquake1-e1473848786826.jpg (from www.makeproductions.com/awards/)
+22:11:11	Warning: 	Retry after error -2 (Receive Time Out) at link www.makeproductions.com/wp-content/uploads/2016/09/nepal31-e1473848712194.jpg (from www.makeproductions.com/awards/)
+22:11:13	Warning: 	Moved Permanently for www.makeproductions.com/?p=2210
+22:11:13	Warning: 	File has moved from www.makeproductions.com/?p=2210 to http://www.makeproductions.com/latest-news/
+22:15:08	Warning: 	Retry after error -4 (Incorrect length (445374 Bytes, 940658 expected)) at link www.makeproductions.com/wp-content/uploads/2018/01/showreelpic-1140x642.png (from www.makeproductions.com/latest-news/)
+22:18:24	Warning: 	Moved Permanently for www.makeproductions.com/?p=3394
+22:18:24	Warning: 	File has moved from www.makeproductions.com/?p=3394 to http://www.makeproductions.com/contact/
+22:18:26	Warning: 	Link www.makeproductions.com/cdn-cgi/l/email-protection not scanned (follow robots meta tag)
+22:18:30	Warning: 	Moved Permanently for www.makeproductions.com/?p=4333
+22:18:30	Warning: 	File has moved from www.makeproductions.com/?p=4333 to http://www.makeproductions.com/portfolio/china-on-film/
+22:18:44	Warning: 	Moved Permanently for www.makeproductions.com/?p=4326
+22:18:44	Warning: 	File has moved from www.makeproductions.com/?p=4326 to http://www.makeproductions.com/portfolio/teamlab/
+22:20:37	Warning: 	Moved Permanently for www.makeproductions.com/?p=4313
+22:20:37	Warning: 	File has moved from www.makeproductions.com/?p=4313 to http://www.makeproductions.com/portfolio/inside-storm-back-brink-marvel/
+22:20:45	Warning: 	Moved Permanently for www.makeproductions.com/?p=4309
+22:20:45	Warning: 	File has moved from www.makeproductions.com/?p=4309 to http://www.makeproductions.com/portfolio/edible-wild/
+22:20:51	Warning: 	Moved Permanently for www.makeproductions.com/?p=4336
+22:20:51	Warning: 	File has moved from www.makeproductions.com/?p=4336 to http://www.makeproductions.com/portfolio/talwars-behind-closed-doors/
+22:20:53	Warning: 	Moved Permanently for www.makeproductions.com/?p=4338
+22:20:53	Warning: 	File has moved from www.makeproductions.com/?p=4338 to http://www.makeproductions.com/portfolio/great-green-wall/
+22:21:21	Warning: 	Moved Permanently for www.makeproductions.com/?p=1922
+22:21:21	Warning: 	File has moved from www.makeproductions.com/?p=1922 to http://www.makeproductions.com/portfolio-all/
+22:25:13	Warning: 	Retry after error -2 (Receive Time Out) at link www.makeproductions.com/wp-content/uploads/2015/09/dens1.jpg (from www.makeproductions.com/awards/)
+22:25:15	Warning: 	Retry after error -2 (Receive Time Out) at link www.makeproductions.com/wp-content/uploads/2015/09/dens.jpg (from www.makeproductions.com/awards/)
+22:25:17	Warning: 	Retry after error -2 (Receive Time Out) at link www.makeproductions.com/wp-content/uploads/2015/09/yellowshirt2.png (from www.makeproductions.com/awards/)
+22:25:19	Warning: 	Moved Permanently for www.makeproductions.com/?p=4340
+22:25:19	Warning: 	File has moved from www.makeproductions.com/?p=4340 to http://www.makeproductions.com/orange-magazine-report-win-7th-china-academy-awards-documentary-film/
+22:31:11	Warning: 	Moved Permanently for www.makeproductions.com/?p=4346
+22:31:11	Warning: 	File has moved from www.makeproductions.com/?p=4346 to http://www.makeproductions.com/look-back-makes-2017/
+22:31:13	Warning: 	Moved Permanently for www.makeproductions.com/?p=4284
+22:31:13	Warning: 	File has moved from www.makeproductions.com/?p=4284 to http://www.makeproductions.com/make-win-7th-china-academy-awards-documentary-film/
+22:31:14	Warning: 	Moved Permanently for www.makeproductions.com/?p=4281
+22:31:14	Warning: 	File has moved from www.makeproductions.com/?p=4281 to http://www.makeproductions.com/uk-coverage-asian-co-production-hbo-star-india/
+22:31:15	Warning: 	Moved Permanently for www.makeproductions.com/?p=4278
+22:31:15	Warning: 	File has moved from www.makeproductions.com/?p=4278 to http://www.makeproductions.com/3-nominations-2017-asian-television-awards/
+22:31:16	Warning: 	Moved Permanently for www.makeproductions.com/?p=4275
+22:31:16	Warning: 	File has moved from www.makeproductions.com/?p=4275 to http://www.makeproductions.com/edible-wild-promo-channel-newsasias-first-look-asia/
+22:31:52	Warning: 	Moved Permanently for www.makeproductions.com/latest-news/page/1/
+22:31:52	Warning: 	File has moved from www.makeproductions.com/latest-news/page/1/ to http://www.makeproductions.com/latest-news/
+22:32:59	Warning: 	Moved Permanently for www.makeproductions.com/?p=4289
+22:32:59	Warning: 	File has moved from www.makeproductions.com/?p=4289 to http://www.makeproductions.com/portfolio/inside-storm-back-brink/
+22:33:01	Warning: 	Moved Permanently for www.makeproductions.com/?p=3840
+22:33:01	Warning: 	File has moved from www.makeproductions.com/?p=3840 to http://www.makeproductions.com/portfolio/cao-fei/
+22:34:41	Warning: 	Moved Permanently for www.makeproductions.com/?p=3898
+22:34:41	Warning: 	File has moved from www.makeproductions.com/?p=3898 to http://www.makeproductions.com/portfolio/cai-guo-qiang/
+22:34:41	Warning: 	Moved Permanently for www.makeproductions.com/?p=3845
+22:34:41	Warning: 	File has moved from www.makeproductions.com/?p=3845 to http://www.makeproductions.com/portfolio/uram-choe/
+22:36:47	Warning: 	Moved Permanently for www.makeproductions.com/?p=3835
+22:36:47	Warning: 	File has moved from www.makeproductions.com/?p=3835 to http://www.makeproductions.com/portfolio/xu-bing/
+22:37:11	Warning: 	Moved Permanently for www.makeproductions.com/?p=4327
+22:37:11	Warning: 	File has moved from www.makeproductions.com/?p=4327 to http://www.makeproductions.com/portfolio/rebellion-in-marawi/
+22:59:00	Warning: 	Moved Permanently for www.makeproductions.com/portfolio-all/page/1/
+22:59:00	Warning: 	File has moved from www.makeproductions.com/portfolio-all/page/1/ to http://www.makeproductions.com/portfolio-all/
+23:02:06	Warning: 	Moved Permanently for www.makeproductions.com/author/makeproductions/page/1/
+23:02:06	Warning: 	File has moved from www.makeproductions.com/author/makeproductions/page/1/ to http://www.makeproductions.com/author/makeproductions/
+23:02:08	Warning: 	Moved Permanently for www.makeproductions.com/?p=4272
+23:02:08	Warning: 	File has moved from www.makeproductions.com/?p=4272 to http://www.makeproductions.com/makes-first-ever-head-content-development/
+23:02:08	Warning: 	Moved Permanently for www.makeproductions.com/?p=4262
+23:02:08	Warning: 	File has moved from www.makeproductions.com/?p=4262 to http://www.makeproductions.com/makes-exclusive-4-part-series-talwars-behind-closed-doors/
+23:02:08	Warning: 	Moved Permanently for www.makeproductions.com/?p=4257
+23:02:08	Warning: 	File has moved from www.makeproductions.com/?p=4257 to http://www.makeproductions.com/trailer-great-green-wall/
+23:02:08	Warning: 	Moved Permanently for www.makeproductions.com/?p=4229
+23:02:08	Warning: 	File has moved from www.makeproductions.com/?p=4229 to http://www.makeproductions.com/great-green-wall-bbc-newsnight/
+23:06:15	Warning: 	Moved Permanently for www.makeproductions.com/category/news/page/1/
+23:06:15	Warning: 	File has moved from www.makeproductions.com/category/news/page/1/ to http://www.makeproductions.com/category/news/
+23:06:15	Warning: 	Moved Permanently for www.makeproductions.com/?p=4245
+23:06:15	Warning: 	File has moved from www.makeproductions.com/?p=4245 to http://www.makeproductions.com/makes-wins-new-york-festivals-2017/
+23:06:15	Warning: 	Retry after error -4 (Incorrect length (1554354 Bytes, 2883584 expected)) at link www.makeproductions.com/wp-content/uploads/2017/03/High-school-boys-hanging-out-after-school-while-smoking-Credit-Taufiq-Jaafar.jpg (from www.makeproductions.com/101-east-jakarta-school-brawl/)
+23:06:16	Warning: 	Moved Permanently for www.makeproductions.com/?p=4180
+23:06:16	Warning: 	File has moved from www.makeproductions.com/?p=4180 to http://www.makeproductions.com/101-east-jakarta-school-brawl/
+23:06:16	Warning: 	Moved Permanently for www.makeproductions.com/?p=4165
+23:06:16	Warning: 	File has moved from www.makeproductions.com/?p=4165 to http://www.makeproductions.com/new-york-festivals-2017-nominations/
+23:06:16	Warning: 	Moved Permanently for www.makeproductions.com/?p=4030
+23:06:16	Warning: 	File has moved from www.makeproductions.com/?p=4030 to http://www.makeproductions.com/back-utopia/
+23:06:16	Warning: 	Moved Permanently for www.makeproductions.com/?p=3828
+23:06:16	Warning: 	File has moved from www.makeproductions.com/?p=3828 to http://www.makeproductions.com/north-korean-slaves-cna-channel4uk/
+23:06:16	Warning: 	Moved Permanently for www.makeproductions.com/?p=3783
+23:06:16	Warning: 	File has moved from www.makeproductions.com/?p=3783 to http://www.makeproductions.com/murder-in-paradise-channel-newsasia-channel-4-uk/
+23:06:16	Warning: 	Retry after error -4 (Incorrect length (1167061 Bytes, 1682217 expected)) at link www.makeproductions.com/wp-content/uploads/2016/04/CYBERSEX_IMAGE_004.jpg (from www.makeproductions.com/undercover-asia-children-of-the-cybersex-dens/)
+23:07:44	Warning: 	Moved Permanently for www.makeproductions.com/?p=3771
+23:07:44	Warning: 	File has moved from www.makeproductions.com/?p=3771 to http://www.makeproductions.com/undercover-asia-children-of-the-cybersex-dens/
+23:07:44	Warning: 	Moved Permanently for www.makeproductions.com/?p=3773
+23:07:44	Warning: 	File has moved from www.makeproductions.com/?p=3773 to http://www.makeproductions.com/make-gets-gold-at-worldmediafestival/
+23:07:44	Warning: 	Moved Permanently for www.makeproductions.com/?p=2439
+23:07:44	Warning: 	File has moved from www.makeproductions.com/?p=2439 to http://www.makeproductions.com/director-jeremy-bristows-second-report-from-sierra-leone-where-he-is-filming-the-ebola-outbreak-on-behalf-of-make-productions/
+23:07:44	Warning: 	Moved Permanently for www.makeproductions.com/?p=3862
+23:07:44	Warning: 	File has moved from www.makeproductions.com/?p=3862 to http://www.makeproductions.com/portfolio/dispatches-brexit-who/
+23:07:44	Warning: 	Retry after error -4 (Incorrect length (718516 Bytes, 2090771 expected)) at link www.makeproductions.com/wp-content/uploads/2018/01/ucith.png (from www.makeproductions.com/portfolio/undercover-asia-name-honour/)
+23:08:17	Warning: 	Moved Permanently for www.makeproductions.com/?p=4351
+23:08:17	Warning: 	File has moved from www.makeproductions.com/?p=4351 to http://www.makeproductions.com/portfolio/undercover-asia-name-honour/
+23:08:17	Warning: 	Moved Permanently for www.makeproductions.com/?p=3872
+23:08:17	Warning: 	File has moved from www.makeproductions.com/?p=3872 to http://www.makeproductions.com/portfolio/the-man-in-the-yellow-shirt/
+23:08:17	Warning: 	Moved Permanently for www.makeproductions.com/?p=3875
+23:08:17	Warning: 	File has moved from www.makeproductions.com/?p=3875 to http://www.makeproductions.com/portfolio/myanmar-road-to-democracy/
+23:08:17	Warning: 	Retry after error -4 (Incorrect length (445556 Bytes, 1090992 expected)) at link www.makeproductions.com/wp-content/uploads/2016/01/inside-the-storm.png (from www.makeproductions.com/portfolio/inside-the-storm-lessons-from-the-boardroom/)
+23:11:18	Warning: 	Moved Permanently for www.makeproductions.com/?p=3841
+23:11:18	Warning: 	File has moved from www.makeproductions.com/?p=3841 to http://www.makeproductions.com/portfolio/inside-the-storm-lessons-from-the-boardroom/
+23:11:18	Warning: 	Moved Permanently for www.makeproductions.com/?p=3861
+23:11:18	Warning: 	File has moved from www.makeproductions.com/?p=3861 to http://www.makeproductions.com/portfolio/north-korean-slaves/
+23:11:18	Warning: 	Moved Permanently for www.makeproductions.com/?p=3869
+23:11:18	Warning: 	File has moved from www.makeproductions.com/?p=3869 to http://www.makeproductions.com/portfolio/sextortion-suicide/
+23:12:34	Warning: 	Moved Permanently for www.makeproductions.com/?p=3866
+23:12:34	Warning: 	File has moved from www.makeproductions.com/?p=3866 to http://www.makeproductions.com/portfolio/murder-in-paradise/
+23:12:34	Warning: 	Moved Permanently for www.makeproductions.com/?p=3864
+23:12:34	Warning: 	File has moved from www.makeproductions.com/?p=3864 to http://www.makeproductions.com/portfolio/children-of-the-cybersex-dens/
+23:12:34	Warning: 	Moved Permanently for www.makeproductions.com/?p=3880
+23:12:34	Warning: 	File has moved from www.makeproductions.com/?p=3880 to http://www.makeproductions.com/portfolio/project-symphony/
+23:12:34	Warning: 	Moved Permanently for www.makeproductions.com/?p=3055
+23:12:34	Warning: 	File has moved from www.makeproductions.com/?p=3055 to http://www.makeproductions.com/portfolio/koreas-broken-families/
+23:12:34	Warning: 	Moved Permanently for www.makeproductions.com/?p=3054
+23:12:34	Warning: 	File has moved from www.makeproductions.com/?p=3054 to http://www.makeproductions.com/portfolio/freedom-or-death/
+23:12:40	Warning: 	Moved Permanently for www.makeproductions.com/?p=3043
+23:12:40	Warning: 	File has moved from www.makeproductions.com/?p=3043 to http://www.makeproductions.com/portfolio/this-is-exile/
+23:12:40	Warning: 	Moved Permanently for www.makeproductions.com/?p=3042
+23:12:40	Warning: 	File has moved from www.makeproductions.com/?p=3042 to http://www.makeproductions.com/portfolio/mariko-mori/
+23:12:40	Warning: 	Moved Permanently for www.makeproductions.com/?p=3040
+23:12:40	Warning: 	File has moved from www.makeproductions.com/?p=3040 to http://www.makeproductions.com/portfolio/isis-terror-in-asia/
+23:12:40	Warning: 	Moved Permanently for www.makeproductions.com/?p=3037
+23:12:40	Warning: 	File has moved from www.makeproductions.com/?p=3037 to http://www.makeproductions.com/portfolio/ebola-diary/
+23:12:40	Warning: 	Moved Permanently for www.makeproductions.com/?p=2923
+23:12:40	Warning: 	File has moved from www.makeproductions.com/?p=2923 to http://www.makeproductions.com/portfolio/cambodias-child-predators/
+23:12:40	Warning: 	Retry after error -4 (Incorrect length (770079 Bytes, 871841 expected)) at link www.makeproductions.com/wp-content/uploads/2014/10/13717624625_c584569b9b_k.jpg (from www.makeproductions.com/sierra-leone-report-iv/)
+23:12:41	Warning: 	Moved Permanently for www.makeproductions.com/?p=2979
+23:12:41	Warning: 	File has moved from www.makeproductions.com/?p=2979 to http://www.makeproductions.com/sierra-leone-report-iv/
+23:12:41	Warning: 	Retry after error -4 (Incorrect length (685556 Bytes, 1372367 expected)) at link www.makeproductions.com/wp-content/uploads/2014/10/9162309484_37e3f8ace2_k.jpg (from www.makeproductions.com/sierra-leone-report-ii/)
+23:12:45	Warning: 	Moved Permanently for www.makeproductions.com/?p=2440
+23:12:45	Warning: 	File has moved from www.makeproductions.com/?p=2440 to http://www.makeproductions.com/sierra-leone-report-ii/
+23:12:45	Warning: 	Moved Permanently for www.makeproductions.com/?p=3768
+23:12:45	Warning: 	File has moved from www.makeproductions.com/?p=3768 to http://www.makeproductions.com/amnesty-international-award-for-this-is-exile/
+23:12:45	Warning: 	Moved Permanently for www.makeproductions.com/?p=3759
+23:12:45	Warning: 	File has moved from www.makeproductions.com/?p=3759 to http://www.makeproductions.com/new-undercover-asia-series/
+23:12:45	Warning: 	Moved Permanently for www.makeproductions.com/?p=3754
+23:12:45	Warning: 	File has moved from www.makeproductions.com/?p=3754 to http://www.makeproductions.com/new-york-festivals-2016-nominations/
+23:12:45	Warning: 	Moved Permanently for www.makeproductions.com/?p=3746
+23:12:45	Warning: 	File has moved from www.makeproductions.com/?p=3746 to http://www.makeproductions.com/panda-babies-for-itv-uk/
+23:12:45	Warning: 	Moved Permanently for www.makeproductions.com/?p=3742
+23:12:45	Warning: 	File has moved from www.makeproductions.com/?p=3742 to http://www.makeproductions.com/new-inside-the-storm-lessons-from-the-boardroom/
+23:12:45	Warning: 	Moved Permanently for www.makeproductions.com/?p=3710
+23:12:45	Warning: 	File has moved from www.makeproductions.com/?p=3710 to http://www.makeproductions.com/6-nominations-at-the-2015-asian-television-awards/
+23:12:45	Warning: 	Moved Permanently for www.makeproductions.com/?p=3703
+23:12:45	Warning: 	File has moved from www.makeproductions.com/?p=3703 to http://www.makeproductions.com/new-makes-3-part-series-on-myanmars-road-to-democracy/
+23:12:45	Warning: 	Moved Permanently for www.makeproductions.com/?p=3699
+23:12:45	Warning: 	File has moved from www.makeproductions.com/?p=3699 to http://www.makeproductions.com/this-is-exile-diaries-of-child-refugees-screening-at-bbc-arabic-festival/
+23:12:45	Warning: 	Moved Permanently for www.makeproductions.com/?p=3691
+23:12:45	Warning: 	File has moved from www.makeproductions.com/?p=3691 to http://www.makeproductions.com/project-symphony/
+23:12:45	Warning: 	Moved Permanently for www.makeproductions.com/?p=2981
+23:12:45	Warning: 	File has moved from www.makeproductions.com/?p=2981 to http://www.makeproductions.com/silent-screams-behind-closed-doors/
+23:12:45	Warning: 	Retry after error -2 (Receive Time Out) at link www.makeproductions.com/wp-content/uploads/2014/10/5815109857_3444be463a_o.jpg (from www.makeproductions.com/sierra-leone-report-iii/)
+23:12:56	Warning: 	Moved Permanently for www.makeproductions.com/?p=2977
+23:12:56	Warning: 	File has moved from www.makeproductions.com/?p=2977 to http://www.makeproductions.com/sierra-leone-report-iii/
+23:12:56	Warning: 	Retry after error -2 (Receive Time Out) at link www.makeproductions.com/wp-content/uploads/2017/03/High-school-boys-hanging-out-after-school-while-smoking-Credit-Taufiq-Jaafar.jpg (from www.makeproductions.com/101-east-jakarta-school-brawl/)
+23:12:58	Warning: 	Retry after error -2 (Receive Time Out) at link www.makeproductions.com/wp-content/uploads/2018/01/ucith.png (from www.makeproductions.com/portfolio/undercover-asia-name-honour/)
+23:13:44	Warning: 	Retry after error -2 (Receive Time Out) at link www.makeproductions.com/wp-content/uploads/2016/01/inside-the-storm.png (from www.makeproductions.com/portfolio/inside-the-storm-lessons-from-the-boardroom/)
+23:14:40	Warning: 	Moved Permanently for www.makeproductions.com/?p=3052
+23:14:40	Warning: 	File has moved from www.makeproductions.com/?p=3052 to http://www.makeproductions.com/portfolio/cancer-sell/
+23:14:40	Warning: 	Moved Permanently for www.makeproductions.com/?p=3051
+23:14:40	Warning: 	File has moved from www.makeproductions.com/?p=3051 to http://www.makeproductions.com/portfolio/serial-swindlers/
+23:14:40	Warning: 	Moved Permanently for www.makeproductions.com/?p=3050
+23:14:40	Warning: 	File has moved from www.makeproductions.com/?p=3050 to http://www.makeproductions.com/portfolio/mishal-husain-meets/
+23:14:40	Warning: 	Moved Permanently for www.makeproductions.com/?p=3049
+23:14:40	Warning: 	File has moved from www.makeproductions.com/?p=3049 to http://www.makeproductions.com/portfolio/asian-swindlers/
+23:14:40	Warning: 	Moved Permanently for www.makeproductions.com/?p=3047
+23:14:40	Warning: 	File has moved from www.makeproductions.com/?p=3047 to http://www.makeproductions.com/portfolio/subodh-vignette/
+23:14:40	Warning: 	Moved Permanently for www.makeproductions.com/?p=3046
+23:14:40	Warning: 	File has moved from www.makeproductions.com/?p=3046 to http://www.makeproductions.com/portfolio/mariko-mori-2/
+23:14:40	Warning: 	Moved Permanently for www.makeproductions.com/?p=3045
+23:14:40	Warning: 	File has moved from www.makeproductions.com/?p=3045 to http://www.makeproductions.com/portfolio/the-day-the-earth-shook/
+23:14:40	Warning: 	Moved Permanently for www.makeproductions.com/?p=3044
+23:14:40	Warning: 	File has moved from www.makeproductions.com/?p=3044 to http://www.makeproductions.com/portfolio/bargin-brides/
+23:14:40	Warning: 	Moved Permanently for www.makeproductions.com/?p=3053
+23:14:40	Warning: 	File has moved from www.makeproductions.com/?p=3053 to http://www.makeproductions.com/portfolio/the-sinking-of-the-sewol/
+23:15:52	Warning: 	Retry after error -4 (Incorrect length (2413545 Bytes, 2447515 expected)) at link www.makeproductions.com/wp-content/uploads/2014/10/5815109857_3444be463a_o.jpg (from www.makeproductions.com/sierra-leone-report-iii/)
+
+HTTrack Website Copier/3.49-2 mirror complete in 6 hours 22 minutes 35 seconds : 845 links scanned, 717 files written (155880535 bytes overall) [151573918 bytes received at 6603 bytes/sec], 6636748 bytes transferred using HTTP compression in 335 files, ratio 29%, 3.2 requests per connection
+(3 errors, 207 warnings, 0 messages)
